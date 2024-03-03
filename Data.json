@@ -1,0 +1,55 @@
+[
+    {
+          "image" : "https://www.zdnet.com/a/img/resize/a599efb452885d4f668855aea18aae668867a960/2023/02/06/10e9ac75-29ce-4e6c-b2fb-8df48e1e40b0/oneplus-11-never-settle.jpg?auto=webp&fit=crop&height=900&width=1200",
+         "productName": "Iphone 14",
+         "price": 354
+    },
+
+     {
+        "image" :"https://img.freepik.com/free-photo/phone-screen-with-abstract-marble-aesthetic_53876-145553.jpg" ,
+        "productName": "Redmi",
+        "price": 354
+    },
+
+     {
+        "image" :"https://media.istockphoto.com/id/1204039347/photo/apple-airpods-on-a-white-background.jpg?s=612x612&w=0&k=20&c=2__4hfynkvBt7PA0UE7N5JxSTuaGRFVKaXJUuoQlBzk=",
+        "productName": "Eardopes",
+        "price": 354
+    },
+
+    {
+        "image" :"https://images.unsplash.com/photo-1563884072595-24a1d9dd5647?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&w=1000&q=80" ,
+        "productName": "Vivo 12",
+        "price": 354
+    },
+    {
+        "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiF1rBnAVi0uIMzMmUudcStZ1Bmid10Hjgeg&usqp=CAU" ,
+        "productName": "Noise Smartwatch",
+        "price": 354
+    },
+    {
+        "image" :"https://intersport.com.au/wp-content/uploads/U_3T133722_N-A_V1_CT.jpg" ,
+        "productName": "Kookaburra Cricket Kit",
+        "price": 354
+    },
+    {
+        "image" :"https://lsmedia.linker-cdn.net/272376/2021/5275607.png?d=400x400" ,
+        "productName": "Bajaj Mixer",
+        "price": 354
+    },
+    {
+        "image" :"https://4.imimg.com/data4/AO/BB/MY-8008666/goat-leather-bags-500x500.jpg" ,
+        "productName": "Leather Bag",
+        "price": 354
+    },
+    {
+        "image" :"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/21819314/2023/3/27/b3657d7e-6519-479e-ae2e-96dc061c14ac1679899398157-Reebok-Men-Sports-Shoes-3101679899397913-1.jpg" ,
+        "productName": "Rebook Shoe",
+        "price": 354
+    },
+    {
+        "image" :"https://assets.ajio.com/medias/sys_master/root/20230620/TtZD/649201a7d55b7d0c637e4e30/-473Wx593H-463235957-blue-MODEL.jpg" ,
+        "productName": "Men Shirt",
+        "price": 354
+    }
+]

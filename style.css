@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* th,tr{
+    margin: 5px;
+    padding: 10px;
+} */
+
+table{
+    width:60%;
+    margin: auto;
+}
+thead th{
+    text-align: center  !important;
+    margin-bottom: 10px;
+}
+tr td{
+    text-align: center;
+    border-bottom:1px solid green;
+
+}
